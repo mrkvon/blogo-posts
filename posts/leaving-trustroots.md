@@ -23,17 +23,17 @@ Since then I took part for example in:
 During this time i made [81 commits to master](https://github.com/Trustroots/trustroots/commits?author=mrkvon) (grouped per 5 weeks):
 
 ```
-                                                    .                                  
-                                                    .                                  
-                                                    .                                  
-                                                    .   .                              
-                                                  . .   .               .              
-                                                  . .   .               .     . .      
-                                                  . .   .               . .   . .      
-                                                  . .   .               . . . . .      
-          .                                       . .   .               . . . . .      
-          .                                       . .   .               . . . . .      
-        . .           . .                         . . . .               . . . . .      
+                                                    .
+                                                    .
+                                                    .
+                                                    .   .
+                                                  . .   .               .
+                                                  . .   .               .     . .
+                                                  . .   .               . .   . .
+                                                  . .   .               . . . . .
+          .                                       . .   .               . . . . .
+          .                                       . .   .               . . . . .
+        . .           . .                         . . . .               . . . . .
 .     . . .   .   .   . .                     . . . . . .               . . . . .     .
 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2
 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0

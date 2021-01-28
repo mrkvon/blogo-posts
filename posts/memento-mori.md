@@ -18,7 +18,6 @@ As [someone already dead](http://news.stanford.edu/2005/06/14/jobs-061505/) said
 
 Is that the answer? I don't know, but it's not a bad one.
 
-
 One thing is certain. I'm going to die. You too. It might as well happen today.
 
 ---
