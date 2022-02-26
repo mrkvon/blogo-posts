@@ -81,7 +81,7 @@ Mikael Korpela, who had been the main force and authority behind Trustroots, sta
 
 Then Nick Sellen came back to Trustroots and I was very happy with the direction we as a community took. I didn't have my own vision, but Nick's vision resonated with me. These were, vaguely, hopes for more community-driven Trustroots, in which founders would gradually give up their power and authority and we would govern ourselves in peer to peer way, with power more equally distributed.
 
-[Nick left Trustroots](https://gist.github.com/nicksellen/3b299c2513e3be9b1caf8f340543cda6) and some of this vision may have left with him. I hope some of it stays. I can't say since I haven't been around.
+[Nick left Trustroots](https://nicksellen.co.uk/writing/2020/07/15/departure-from-trustroots) and some of this vision may have left with him. I hope some of it stays. I can't say since I haven't been around.
 
 ### Burning out
 
