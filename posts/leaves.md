@@ -1,3 +1,9 @@
+---
+date: "2022-09-19"
+title: How do leaves grow?
+url: leaves
+---
+
 # How do leaves grow?
 
 Today, i've been sitting outside and admiring leaves. And wondering how they grow.

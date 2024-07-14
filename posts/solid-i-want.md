@@ -1,3 +1,9 @@
+---
+date: "2022-07-06"
+title: I need Solid to change
+url: solid-i-want
+---
+
 As an application developer,
 
 # I need [Solid](https://solidproject.org) to change
@@ -23,18 +29,15 @@ We need a more granular way to give permissions to apps. Permissions based on sh
 
 Now, let's look at it in more detail...
 
-
 ## First, the promise
 
 I love the promise Solid offers. The ultimate social network that developers don't have to reinvent - it already exists. Developer just makes apps that improve what people can do in it.
 
 I learned this the hard way: When a social network wants to connect people, [it needs people](https://en.wikipedia.org/wiki/Network_effect), otherwise it's doomed. In Solid, we don't compete. When one app attracts new people, all apps are better off, because they all gain potential new users.
 
-
 ## My hopes
 
 Internet which connects people and encourages us to collaborate and spend more time in reality instead of trapping us online.
-
 
 ## Getting technical
 
@@ -45,11 +48,9 @@ In Solid, it's important for me that:
 
 Now, let's look at these two points more closely:
 
-
 ### Identity and authentication
 
 I'm happy with how this works. It's based on [OpenID Connect](https://openid.net/connect/). And it functions as expected.
-
 
 ### Data
 
@@ -78,7 +79,7 @@ Each triple has its own permissions tied to it. This allows people to make fine-
 
 Apps ask for, and may receive, very specific permissions: This datum you can read, this shape you can create, this shape you can edit.
 
-Let's say my application works with people and their interests. So it works with data of form (Person) --foaf:topic\_interest--> (Thing)
+Let's say my application works with people and their interests. So it works with data of form (Person) --foaf:topic_interest--> (Thing)
 When somebody decides to share one interest with everybody, and the other only with their family, i simply don't see the private parts. The family will see a slightly different document, and that's it!
 
 When i want to publish, or make private a specific triple, i have to move it to a different document, with different permissions. That Just Sucks. It breaks the uris.
@@ -88,7 +89,6 @@ Dump [WAC](Link!). It is concerned with documents and their permissions, not dat
 The asking for application permissions only once at the beginning is too simplifying, and too generic.
 
 I think - but this is a shot in the dark, that typical change of permissions can look as follows - the app suggests change in permissions, person is redirected to their app and changes the permissions, if they want to. Sort of like when we sign in.
-
 
 <!--
 ## What i need as an application developer

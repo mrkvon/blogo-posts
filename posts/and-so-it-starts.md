@@ -1,3 +1,9 @@
+---
+date: "2016-11-21"
+title: And So It Starts
+url: and-so-it-starts
+---
+
 I was there, lost, wasted for almost three months. With no real connection to people whatsoever.
 
 This morning after a night spent watching youtube videos i looked out and saw a blue sky, wind and wild geese traveling south. I decided to walk. Moon landscape of fields, and as i sleepwalked through the morning sunny cold wind, i saw the changes, the greediness of good people, the little birds of hope, mud and disappeared paths. Everything becomes a field.

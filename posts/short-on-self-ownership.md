@@ -1,3 +1,9 @@
+---
+date: "2017-02-25"
+title: Short on Self-Ownership
+url: short-on-self-ownership
+---
+
 # Short on Self-ownership
 
 [Self-ownership](https://en.wikipedia.org/wiki/Self-ownership) comes also with responsibility: We are responsible for our feelings. Nobody else is.

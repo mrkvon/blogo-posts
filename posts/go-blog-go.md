@@ -1,3 +1,9 @@
+---
+date: "2016-10-29"
+title: Go Blog Go
+url: go-blog-go
+---
+
 # Go blog, go!
 
 The blog is now powered by a minimal system based on [go](http://golang.org) + markdown + json. You can <span title="and reuse if you're insane">see</span> the code on [GitHub](https://github.com/mrkvon/blogo). Spoiler: It's rather messy, still.

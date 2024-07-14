@@ -1,3 +1,9 @@
+---
+date: "2021-01-10"
+title: Leaving Trustroots Volunteering
+url: leaving-trustroots
+---
+
 # Leaving Trustroots Volunteering
 
 **TLDR**; I've decided to leave Trustroots volunteering because I want to put my focus and energy elsewhere.

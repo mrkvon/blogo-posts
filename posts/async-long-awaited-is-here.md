@@ -1,3 +1,9 @@
+---
+date: "2016-11-26"
+title: Async await, welcome to Node.js!
+url: async-long-awaited-is-here
+---
+
 # Async await has come to Node.js
 
 I just discovered that `async` `await` has been implemented in Nodejs v7.1.0.

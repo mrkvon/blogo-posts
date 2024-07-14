@@ -1,3 +1,9 @@
+---
+date: "2017-01-04"
+title: Memento Mori
+url: memento-mori
+---
+
 ![Dance of Death](https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Dance_of_Death_%28replica_of_15th_century_fresco%3B_National_Gallery_of_Slovenia%29.jpg/2048px-Dance_of_Death_%28replica_of_15th_century_fresco%3B_National_Gallery_of_Slovenia%29.jpg)
 
 I made a [memento mori](https://en.wikipedia.org/wiki/Memento_mori) for my [i3 window manager](http://i3wm.org/).

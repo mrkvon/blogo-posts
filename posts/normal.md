@@ -1,3 +1,9 @@
+---
+date: "2018-02-19"
+title: Are you normal?
+url: normal
+---
+
 There is a bad insult in Czech republic.
 Widely used by parents, teachers and peers to make you feel ashamed.
 
